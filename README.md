@@ -9,6 +9,5 @@ Overview of the Project
 This is my personal portfolio website created using HTML and CSS.
 
 ## Output
-
-![Portfolio Screenshot](1000140417.jpg)
+![Portfolio Output](portfolio%20output.png)
 Project:Personal Portfolio Website
