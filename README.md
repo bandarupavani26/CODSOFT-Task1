@@ -4,7 +4,7 @@ Name: Bandaru Pavani
 College Name: NBKR Institute of Science and Technology
 Course: B.Tech – Computer Science and Engineering (CSE)
 
-Project Title: Personal Portfolio Website
+Project Title: Online Portfolio Website
 
 Project Overview:
 A responsive portfolio website created using HTML and CSS to showcase personal details, skills, projects, resume, and contact information.
@@ -30,6 +30,5 @@ Student portfolio, resume website, internship showcase, and personal branding.
 Conclusion:
 This project helps in learning web development and provides a professional platform to display skills and project information.
 
-## Output
-![Portfolio Output](portfolio%20output.png)
-Project:Personal Portfolio Website
+<img width="1896" height="903" alt="Task1output" src="https://github.com/user-attachments/assets/2e3f4564-a7b4-4609-817a-3c7a33ab7c96" />
+
